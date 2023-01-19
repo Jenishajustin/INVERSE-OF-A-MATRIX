@@ -24,6 +24,10 @@ A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 B=np.linalg.inv(A)
 print(B)
 ```
+
+
+
+
 ## Output:
 ![MODEL](inverseofmatrix.png)
 ## Result:
